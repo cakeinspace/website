@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+I am doing a PhD in computational biology in the Van Nimwegen lab in Biozentrum, Basel.
